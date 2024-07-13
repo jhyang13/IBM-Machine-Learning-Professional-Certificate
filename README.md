@@ -2,7 +2,7 @@
 
 ## Exploratory Data Analysis for Machine Learning
 
-### There are 5 modules in this course
+### By the end of this course you should be able to:
 - Retrieve data from multiple data sources: SQL, NoSQL databases, APIs, Cloud 
 - Describe and use common feature selection and feature engineering techniques
 - Handle categorical and ordinal features, as well as missing values
