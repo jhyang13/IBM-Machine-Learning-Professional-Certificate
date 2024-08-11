@@ -17,3 +17,13 @@
 - Use a variety of error metrics to compare and select a linear regression model that best suits your data
 - Articulate why regularization may help prevent overfitting
 - Use regularization regressions: Ridge, LASSO, and Elastic net
+
+## Supervised Machine Learning: Classification
+
+### By the end of this course you should be able to:
+-Differentiate uses and applications of classification and classification ensembles
+-Describe and use logistic regression models
+-Describe and use decision tree and tree-ensemble models
+-Describe and use other ensemble methods for classification
+-Use a variety of error metrics to compare and select the classification model that best suits your data
+-Use oversampling and undersampling as techniques to handle unbalanced classes in a data set
